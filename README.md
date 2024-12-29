@@ -3,10 +3,10 @@
 This project is a **Recipe Recommender App** built using Python and Streamlit. It recommends recipes based on user preferences such as tags, ingredients, diet restrictions, and minimum ratings.
 
 ## Features
-1.Allows users to input preferences such as tags, ingredients, dietary restrictions, and minimum ratings.
-2.Uses **TF-IDF Vectorization** for text feature extraction.
-3.Employs **Cosine Similarity** to find similar recipes.
-4.Interactive UI built with **Streamlit**.
+1. Allows users to input preferences such as tags, ingredients, dietary restrictions, and minimum ratings.
+2. Uses **TF-IDF Vectorization** for text feature extraction.
+3. Employs **Cosine Similarity** to find similar recipes.
+4. Interactive UI built with **Streamlit**.
 
 ## Setup Instructions
 
